@@ -16,3 +16,10 @@ My name is Abdelhadi
 - 📫 How to reach me:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abdelhadi-hireche/)
   - :e-mail: Email: abdelhadi.hireche@outlook.com
+
+
+curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py
+
+sudo python2 get-pip.py
+
+pip2 --version
